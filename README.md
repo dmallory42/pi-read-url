@@ -107,6 +107,8 @@ Run the local smoke test:
 npm test
 ```
 
+Release notes and workflow live in [`RELEASING.md`](./RELEASING.md).
+
 ## License
 
 MIT
