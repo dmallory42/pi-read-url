@@ -2,13 +2,18 @@
   "name": "@dmallory42/pi-read-url",
   "version": "0.1.1",
   "type": "module",
-  "description": "Pi extension that reads public web pages via system curl and returns cleaned markdown.",
+  "description": "Pi extension for extracting public HTML page URLs into clean markdown via system curl.",
   "keywords": [
     "pi-package",
     "pi",
+    "pi-extension",
+    "read-url",
     "curl",
     "web",
-    "markdown"
+    "markdown",
+    "content-extraction",
+    "html",
+    "readability"
   ],
   "license": "MIT",
   "repository": {
@@ -22,7 +27,8 @@
   "files": [
     "index.ts",
     "types.d.ts",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
   "publishConfig": {
     "access": "public"
